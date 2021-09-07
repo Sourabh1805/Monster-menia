@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monster-menia/static/css/main.52de055e.chunk.css",
+    "main.js": "/Monster-menia/static/js/main.44d58b38.chunk.js",
+    "main.js.map": "/Monster-menia/static/js/main.44d58b38.chunk.js.map",
+    "runtime-main.js": "/Monster-menia/static/js/runtime-main.b43e1add.js",
+    "runtime-main.js.map": "/Monster-menia/static/js/runtime-main.b43e1add.js.map",
+    "static/js/2.d76318f0.chunk.js": "/Monster-menia/static/js/2.d76318f0.chunk.js",
+    "static/js/2.d76318f0.chunk.js.map": "/Monster-menia/static/js/2.d76318f0.chunk.js.map",
+    "static/js/3.547297f5.chunk.js": "/Monster-menia/static/js/3.547297f5.chunk.js",
+    "static/js/3.547297f5.chunk.js.map": "/Monster-menia/static/js/3.547297f5.chunk.js.map",
+    "index.html": "/Monster-menia/index.html",
+    "static/css/main.52de055e.chunk.css.map": "/Monster-menia/static/css/main.52de055e.chunk.css.map",
+    "static/js/2.d76318f0.chunk.js.LICENSE.txt": "/Monster-menia/static/js/2.d76318f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43e1add.js",
+    "static/js/2.d76318f0.chunk.js",
+    "static/css/main.52de055e.chunk.css",
+    "static/js/main.44d58b38.chunk.js"
+  ]
+}
